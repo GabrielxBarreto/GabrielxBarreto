@@ -8,7 +8,7 @@
 
 ![GabrielxBarreto GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielxBarreto&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielxBarreto&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielxBarreto)](https://github.com/GabrielxBarreto/github-readme-stats)
 
 ## Área de contato:
 
