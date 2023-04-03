@@ -9,8 +9,10 @@
 ![GabrielxBarreto GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielxBarreto&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielxBarreto)](https://github.com/GabrielxBarreto/github-readme-stats)
+### Outras Skills:
 
 ## Área de contato:
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 Email: gabrieloakbarreto@gmail.com
 
