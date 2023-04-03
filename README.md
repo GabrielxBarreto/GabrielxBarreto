@@ -10,9 +10,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielxBarreto)](https://github.com/GabrielxBarreto/github-readme-stats)
 ### Outras Skills:
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+![Excel](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ## Área de contato:
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 Email: gabrieloakbarreto@gmail.com
 
