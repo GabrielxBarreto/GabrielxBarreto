@@ -1,5 +1,5 @@
-## Olá! Eu sou o Gabriel Barreto🤖
-
+# Olá! Eu sou o Gabriel Barreto🤖
+## Linguagens Que Uso:
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]([https://#](https://github.com/GabrielxBarreto/Java))
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]([https://#](https://github.com/GabrielxBarreto/PHP))
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://#)
