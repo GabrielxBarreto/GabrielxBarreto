@@ -7,8 +7,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://#)
 
 ![GabrielxBarreto GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielxBarreto&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielxBarreto)](https://github.com/GabrielxBarreto/github-readme-stats)
 ### Outras Skills:
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
