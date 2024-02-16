@@ -28,4 +28,5 @@ Email: gabrieloakbarreto@gmail.com
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.instagram.com/dev_biel/](https://www.linkedin.com/in/gabriel-de-carvalho-barreto-367700267/))
 
 #### Criatividade e Lógica caminhando lado a lado🔱
+### Aulas de informática básica
 Paixão pelo mundo dos Softwares específico da programação
