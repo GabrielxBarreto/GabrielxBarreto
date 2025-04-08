@@ -17,6 +17,8 @@
 ![Canvas](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+![GabrielxBarreto GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielxBarreto&show_icons=true&theme=dark)
+
 ### Em Aprendiizado:
 xml- e seus conceitos
 
