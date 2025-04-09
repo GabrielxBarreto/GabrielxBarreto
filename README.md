@@ -1,10 +1,12 @@
 
-<div style="display:flex; align-items:center;justify-content:center">
-    <img  width="100"src="https://th.bing.com/th/id/R.515a8da287ae3d77dfbf851515c63734?rik=c6m%2f0feJW4BlJw&riu=http%3a%2f%2f31.media.tumblr.com%2f515a8da287ae3d77dfbf851515c63734%2ftumblr_mj456hDoES1rgpyeqo1_500.gif&ehk=9H7WP2vjGYSHPtTWm068moQ%2f18aDUGbUWG6Z%2bnhw6S0%3d&risl=&pid=ImgRaw&r=0" alt="GabrielxBarreto" srcset="">
 
-    
+ 
+<div style= align-items:center;justify-content:center">
+    <h1>
+<img display="flex" width="80"src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8d4a341-a824-4076-acaf-2c9c1267df36/d9898wv-119a0799-080b-4072-a9a4-32c45dffb95d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U4ZDRhMzQxLWE4MjQtNDA3Ni1hY2FmLTJjOWMxMjY3ZGYzNlwvZDk4OTh3di0xMTlhMDc5OS0wODBiLTQwNzItYTlhNC0zMmM0NWRmZmI5NWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mzbaSWm13eXYTcPjFqJizfC9V1axZnS5MA71Ek4zIzc" alt="GabrielxBarreto" srcset="">
+<big></big>Hello World, I'm Gabriel Barreto</big>
+    </h1>
 </div>
-<h1 style="text-align:center;">Hello World, I'm Gabriel Barreto</h1>
 <p>Sou graduando em Ciências da Computação pelo Instituto Federal Catarinense (IFC) e Técnico em Informática pelo Instituto Federal de Ciência e Tecnologia da Bahia (IFBA), Sou Dev Full Stack e amo programar.</p>
 
 ## Tecnologias do Dia a Dia:
@@ -20,7 +22,6 @@
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ![GabrielxBarreto GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielxBarreto&show_icons=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielxBarreto)](https://github.com/anuraghazra/github-readme-stats)
 
 
