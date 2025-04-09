@@ -25,13 +25,12 @@
 
 
 ## Área de contato:
-
-Email: gabrieloakbarreto@gmail.com
-
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_biel/)
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barreto-367700267/)
 
+Email: gabrieloakbarreto@gmail.com
+
 #### Criatividade e Lógica caminhando lado a lado🔱
-<p>Aulas de informática básica</p>
-<p>Desenvolvedor Full-Stack</p>
-Paixão pelo mundo dos Softwares específico da programação
+
+- <p>Desenvolvedor Full-Stack</p>
+- Paixão pelo mundo dos Softwares específico da programação
