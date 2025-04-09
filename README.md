@@ -27,9 +27,9 @@
 ## Área de contato:
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_biel/)
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barreto-367700267/)
-[![Enviar Email](https://img.shields.io/badge/Email-Meu%20Email-blue)](mailto:seuemail@exemplo.com)
+
+[![Enviar Email](https://img.shields.io/badge/Email-Meu%20Email-%23008b8b)](mailto:gabrieloakbarreto@gmail.com)
 gabrieloakbarreto@gmail.com
 #### Criatividade e Lógica caminhando lado a lado🔱
-<p>Aulas de informática básica</p>
 <p>Desenvolvedor Full-Stack</p>
 Paixão pelo mundo dos Softwares específico da programação
