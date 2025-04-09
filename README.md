@@ -1,6 +1,3 @@
-
-
- 
 <div style= align-items:center;justify-content:center">
     <h1>
 <img display="flex" width="100"src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8d4a341-a824-4076-acaf-2c9c1267df36/d9898wv-119a0799-080b-4072-a9a4-32c45dffb95d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U4ZDRhMzQxLWE4MjQtNDA3Ni1hY2FmLTJjOWMxMjY3ZGYzNlwvZDk4OTh3di0xMTlhMDc5OS0wODBiLTQwNzItYTlhNC0zMmM0NWRmZmI5NWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mzbaSWm13eXYTcPjFqJizfC9V1axZnS5MA71Ek4zIzc" alt="GabrielxBarreto" srcset="">
@@ -32,7 +29,7 @@
 Email: gabrieloakbarreto@gmail.com
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_biel/)
-[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/gabriel-barreto-367700267/)
+[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barreto-367700267/)
 
 #### Criatividade e Lógica caminhando lado a lado🔱
 <p>Aulas de informática básica</p>
