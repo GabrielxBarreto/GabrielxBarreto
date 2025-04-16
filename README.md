@@ -23,8 +23,8 @@
 
 <br><br>
 
-![GabrielxBarreto GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielxBarreto&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielxBarreto&theme=dark&hide_progress=true)
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=GabrielxBarreto&show_icons=true&theme=dark">
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielxBarreto&theme=dark&hide_progress=true">
 
 ## Área de contato:
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_biel/)
