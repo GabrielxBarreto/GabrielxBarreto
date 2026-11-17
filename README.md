@@ -1,42 +1,116 @@
-<div align=center>
-    <h1>
-<img display="flex" width="100"src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8d4a341-a824-4076-acaf-2c9c1267df36/d9898wv-119a0799-080b-4072-a9a4-32c45dffb95d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U4ZDRhMzQxLWE4MjQtNDA3Ni1hY2FmLTJjOWMxMjY3ZGYzNlwvZDk4OTh3di0xMTlhMDc5OS0wODBiLTQwNzItYTlhNC0zMmM0NWRmZmI5NWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mzbaSWm13eXYTcPjFqJizfC9V1axZnS5MA71Ek4zIzc" alt="GabrielxBarreto" srcset="">
-<big></big>Hello World, I'm Gabriel Barreto</big>
-    </h1>
+<div align="center">
 
-<p>Sou graduando em Ciências da Computação pelo Instituto Federal Catarinense (IFC) e Técnico em Informática pelo Instituto Federal de Ciência e Tecnologia da Bahia (IFBA), Sou Dev Full Stack e amo programar.</p>
+# Gabriel de Carvalho Barreto
 
-    
-## Tecnologias do Dia a Dia:
-<div display="flex">
+### Software Developer | Computer Science Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Software+Engineering+Enthusiast;Always+Learning+and+Building" alt="Typing SVG">
+
+<p>
+Desenvolvedor de software e graduando em Ciência da Computação pelo
+<strong>Instituto Federal Catarinense (IFC)</strong>.
+Técnico em Informática pelo <strong>Instituto Federal da Bahia (IFBA)</strong>.
+</p>
+
+<p>
+Tenho interesse em engenharia de software, desenvolvimento de aplicações
+e construção de soluções tecnológicas. Gosto de explorar diferentes
+tecnologias, compreender problemas e transformá-los em soluções práticas.
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Graduando em Ciência da Computação — IFC.
+- 💻 Técnico em Informática — IFBA.
+- 🚀 Desenvolvedor com foco em aplicações Full Stack.
+- 🧩 Interesse em arquitetura de software, algoritmos e estruturas de dados.
+- 📚 Sempre buscando aprofundar conhecimentos e desenvolver novos projetos.
+
+## 🛠️ Tecnologias e ferramentas
+
+**Linguagens de programação**
+
+<p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot Framework">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canvas">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+**Frameworks e desenvolvimento**
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+</p>
+
+**Banco de dados**
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
+</p>
+
+**Ferramentas e ambiente de desenvolvimento**
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielxBarreto&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielxBarreto&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
 
 <br><br>
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=GabrielxBarreto&show_icons=true&theme=dark">
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielxBarreto&theme=dark&hide_progress=true">
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielxBarreto&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
 
-## Área de contato:
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_biel/)
-[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barreto-367700267/)
+</div>
 
-[![Enviar Email](https://img.shields.io/badge/Email-Meu%20Email-%23008b8b)](mailto:gabrieloakbarreto@gmail.com)
-gabrieloakbarreto@gmail.com
-#### Criatividade e Lógica caminhando lado a lado🔱
-<p>Desenvolvedor Full-Stack</p>
-Paixão pelo mundo dos Softwares específico da programação
+---
 
-![Visitor Count](https://profile-counter.glitch.me/{GabrielxBarreto}/count.svg)
+## 📫 Contato
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=01100010+01100001+01110010+01110010+01100101+01110100+01101111+)](https://git.io/typing-svg)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gabriel-barreto-367700267/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/dev_biel/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="mailto:gabrieloakbarreto@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=GabrielxBarreto&style=flat-square&color=0A66C2&label=Profile+Views" alt="Profile Views">
+
+<br><br>
+
+### "Criatividade e lógica caminhando lado a lado." 🔱
+
 </div>
