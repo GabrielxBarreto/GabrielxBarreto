@@ -22,7 +22,7 @@ tecnologias, compreender problemas e transformá-los em soluções práticas.
 
 ---
 
-## ⭐ Sobre mim
+## Sobre mim
 
 -  Graduando em Ciência da Computação — IFC.
 -  Técnico em Informática — IFBA.
@@ -30,7 +30,7 @@ tecnologias, compreender problemas e transformá-los em soluções práticas.
 -  Interesse em arquitetura de software, algoritmos e estruturas de dados.
 -  Sempre buscando aprofundar conhecimentos e desenvolver novos projetos.
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 **Linguagens de programação**
 
@@ -89,7 +89,7 @@ tecnologias, compreender problemas e transformá-los em soluções práticas.
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div align="center">
 
